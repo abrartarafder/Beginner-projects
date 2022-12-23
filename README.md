@@ -21,4 +21,4 @@ Essentially the function is defined with the parameters values, to find, start i
 
 # Binary-Search-Tree
 
-Finding the left right index nodes in Python
+Finding the left right index nodes in Python implemented as array
