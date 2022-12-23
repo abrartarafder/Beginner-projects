@@ -27,11 +27,11 @@ Finding the left right index nodes in Python implemented as array
 
 Another DSA Algorithm learned in python and trying to implement it. 
 
-#Cardgame
+# Cardgame
 
 Worked on a cardgame for a lab and uploaded
 
 
-#RockpaperScissors 
+# RockpaperScissors 
 
 Rock paper Scissors game
