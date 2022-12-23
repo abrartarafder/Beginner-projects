@@ -26,3 +26,7 @@ Finding the left right index nodes in Python implemented as array
 # Insertion Sort Project
 
 Another DSA Algorithm learned in python and trying to implement it. 
+
+#Cardgame
+
+Worked on a cardgame for a lab and uploaded
