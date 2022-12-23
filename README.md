@@ -22,3 +22,7 @@ Essentially the function is defined with the parameters values, to find, start i
 # Binary-Search-Tree
 
 Finding the left right index nodes in Python implemented as array
+
+# Insertion Sort Project
+
+Another DSA Algorithm learned in python and trying to implement it. 
