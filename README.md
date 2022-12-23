@@ -35,3 +35,7 @@ Worked on a cardgame for a lab and uploaded
 # RockpaperScissors 
 
 Rock paper Scissors game
+
+# Number Guess
+
+Number guessing in python and c++
