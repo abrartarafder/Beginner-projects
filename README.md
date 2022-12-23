@@ -6,7 +6,12 @@ Some projects I've worked on as a beginner when I first started coding.
 
 # Calculators in Different Languages
 
-I think that the best way to learn a language is learning how to build a calculator in that language. 
+I think that the best way to learn a language is learning how to build a calculator in that language.
+
+# TicTacToe game
+
+Simple TicTacToe game in python made just for fun -- some parts still incomplete.
+
 
 # Binary-Search-Code-Project-1
 
